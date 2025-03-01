@@ -10,3 +10,5 @@
 9. now "dvc commit" n then "dvc push"
 10. do git add-commit to push upto the mark
 11.now make changes in mycode 
+13.check dvc/git status , everything should be uptodate.
+14. now repeat step 10-12 for v3 of data.
