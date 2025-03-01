@@ -6,4 +6,6 @@
 5.Now do "mkdir S3" (create a new S3 directory)
 6.Now do "dvc remote add -d myremote S3".
 7.Next "dvc add data/". and other cmds like "git rm -r --cached 'data'" then  git commit -m "stop tracking data"
-8. again do 'dvc add data/'
+8. again do 'dvc add data/'.
+9. now "dvc commit" n then "dvc push"
+10. do git add-commit to push upto the mark
