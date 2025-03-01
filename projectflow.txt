@@ -9,3 +9,4 @@
 8. again do 'dvc add data/'.
 9. now "dvc commit" n then "dvc push"
 10. do git add-commit to push upto the mark
+11.now make changes in mycode 
